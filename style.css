@@ -29,4 +29,34 @@ img {
  margin: auto;
  align-items: center;
  width: 1500px;
- }   
+ }
+ h2 {
+    text-align: left;
+    font-size:  50px;
+    color:white;
+    font-family: times;
+    font-weight:bold;
+    text-decoration:rgb(233, 233, 213);
+    text-transform:capitalize;
+    text-indent:30px
+    } 
+    p2 {
+        text-align: center;
+        font-size:30px;
+        color:rgba(231, 231, 195, 0.74);
+        font-family:Arial;
+        text-decoration:rgb(71, 71, 60);
+        text-transform:capitalize;
+        text-indent:30px
+        }
+        h3 {
+            text-align: left;
+            font-size:  50px;
+            color:white;
+            font-family: times;
+            font-weight:bold;
+            text-decoration:rgb(233, 233, 213);
+            text-transform:capitalize;
+            text-indent:30px
+            } 
+ 
