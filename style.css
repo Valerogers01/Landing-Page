@@ -22,13 +22,19 @@ p {
     }   
 body {
     background-color: rgb(44, 40, 40);
-    }   
+    }  
+div { 
+width: 100%;
+
+ } 
 img { 
- opacity: 0.5;
+ height: auto;
  padding: 10px;
  margin: auto;
- align-items: center;
+ display: block;
  width: 1500px;
+ border-radius: 30px;
+ border: 2px solid #ccc;
  }
  h2 {
     text-align: left;
