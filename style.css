@@ -8,6 +8,7 @@ h1 {
     text-decoration:rgb(216, 216, 210);
     text-transform:capitalize;
     text-indent:30px
+<<<<<<< HEAD
     }
     p {
         text-align: center;
@@ -16,10 +17,45 @@ h1 {
         font-family:Arial, Helvetica, sans-serif;
         font-weight:bold;
         letter-spacing:0px;
+=======
+    }   
+body {
+    background-color: rgb(44, 40, 40);
+    }  
+div { 
+width: 100%;
+
+ } 
+img { 
+ height: auto;
+ padding: 10px;
+ margin: auto;
+ display: block;
+ width: 1500px;
+ border-radius: 30px;
+ border: 2px solid #ccc;
+ }
+ h2 {
+    text-align: left;
+    font-size:  50px;
+    color:white;
+    font-family: times;
+    font-weight:bold;
+    text-decoration:rgb(233, 233, 213);
+    text-transform:capitalize;
+    text-indent:30px
+    } 
+    p2 {
+        text-align: center;
+        font-size:30px;
+        color:rgba(231, 231, 195, 0.74);
+        font-family:Arial;
+>>>>>>> 09bb233ef3cb2c6b2bc4f34ddba7e6af86036164
         text-decoration:rgb(71, 71, 60);
         text-transform:capitalize;
         text-indent:30px
         }
+<<<<<<< HEAD
     body {
         background-color: rgb(44, 40, 40);
         }
@@ -73,3 +109,28 @@ h1 {
                     text-transform:capitalize;
                     text-indent:30px
                     }
+=======
+
+        h3,h4 {
+            text-align: left;
+            font-size:  50px;
+            color:white;
+            font-family: times;
+            font-weight:bold;
+            text-decoration:rgb(233, 233, 213);
+            text-transform:capitalize;
+            text-indent:30px
+            }
+
+            li {
+                text-align: left;
+                font-size:30px;
+                color:rgba(231, 231, 195, 0.74);
+                font-family:Arial;
+                text-decoration:rgb(71, 71, 60);
+                text-transform:capitalize;
+                text-indent:30px
+                }
+                
+ 
+>>>>>>> 09bb233ef3cb2c6b2bc4f34ddba7e6af86036164
