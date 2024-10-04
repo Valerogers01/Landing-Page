@@ -1,24 +1,22 @@
 h1 {
-text-align: center;
-font-size:200px;
-color:white;
-font-family:Times;
-font-weight:bold;
-letter-spacing:5px;
-text-decoration:rgb(216, 216, 210);
-text-transform:capitalize;
-text-indent:30px
-}   
-p {
     text-align: center;
-    font-size:60px;
-    color:rgba(231, 231, 195, 0.74);
-    font-family:Arial, Helvetica, sans-serif;
+    font-size:200px;
+    color:white;
+    font-family:Times;
     font-weight:bold;
-    letter-spacing:0px;
-    text-decoration:rgb(71, 71, 60);
+    letter-spacing:5px;
+    text-decoration:rgb(216, 216, 210);
     text-transform:capitalize;
     text-indent:30px
+
+    }
+    p {
+        text-align: center;
+        font-size:60px;
+        color:rgba(231, 231, 195, 0.74);
+        font-family:Arial, Helvetica, sans-serif;
+        font-weight:bold;
+        letter-spacing:0px;
     }   
 body {
     background-color: rgb(44, 40, 40);
@@ -56,6 +54,61 @@ img {
         text-indent:30px
         }
 
+    body {
+        background-color: rgb(44, 40, 40);
+        }
+    div {
+    width: 100%;
+     }
+    img {
+     height: auto;
+     padding: 10px;
+     margin: auto;
+     display: block;
+     width: 1500px;
+     border-radius: 30px;
+     border: 2px solid #ccc;
+     }
+     h2 {
+        text-align: left;
+        font-size:  50px;
+        color:white;
+        font-family: times;
+        font-weight:bold;
+        text-decoration:rgb(233, 233, 213);
+        text-transform:capitalize;
+        text-indent:30px
+        }
+        p2 {
+            text-align: center;
+            font-size:30px;
+            color:rgba(231, 231, 195, 0.74);
+            font-family:Arial;
+            text-decoration:rgb(71, 71, 60);
+            text-transform:capitalize;
+            text-indent:30px
+            }
+            h3,h4 {
+                text-align: left;
+                font-size:  50px;
+                color:white;
+                font-family: times;
+                font-weight:bold;
+                text-decoration:rgb(233, 233, 213);
+                text-transform:capitalize;
+                text-indent:30px
+                }
+                li {
+                    text-align: left;
+                    font-size:30px;
+                    color:rgba(231, 231, 195, 0.74);
+                    font-family:Arial;
+                    text-decoration:rgb(71, 71, 60);
+                    text-transform:capitalize;
+                    text-indent:30px
+                    }
+
+
         h3,h4 {
             text-align: left;
             font-size:  50px;
@@ -87,5 +140,3 @@ img {
 
                 }
             
-                
- 
