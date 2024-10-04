@@ -109,7 +109,7 @@ img {
                     }
 
 
-        h3,h4 {
+        h3,h4,h5 {
             text-align: left;
             font-size:  50px;
             color:white;
@@ -139,28 +139,7 @@ img {
                     justify-content: center;
 
                 }
-               #zq {
-                float: left;
-                margin-left: 10px;}
-                #der {
-                    float: right;
-                    margin-right: 10px;
-                }
-                #contenedor {
-                    margin-top: 5%;
-                }
-                footer {
-                    text-align: center;
-                    font-size: 14px;
-                }
-                #imgCenter {
-                    opacity: 0.5;
-                    padding: 10px;
-                    margin: auto;
-                    align-items: center;
-                    display: block;
-                    margin-left: auto;
-                    margin-right: auto;
-                    width: 100px;
-                }
+                
+               
+                
             
