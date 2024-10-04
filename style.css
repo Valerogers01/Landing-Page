@@ -76,5 +76,16 @@ img {
                 text-transform:capitalize;
                 text-indent:30px
                 }
+                .alinear {
+
+                    width: 200px;
+                    height: auto;
+                }
+                .foto {
+                    display: flex;
+                    justify-content: center;
+
+                }
+            
                 
  
